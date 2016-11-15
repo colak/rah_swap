@@ -22,9 +22,9 @@
 			$default_cfg = $txpcfg;
 		}
 
-		if (!php('echo 1;'))
-		{
-			return '';
+//		if (!php('echo 1;'))
+//		{
+//			return '';
 		}
 
 		if (isset($atts['link']))
